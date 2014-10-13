@@ -1,0 +1,9 @@
+<?
+		$code = "credit";
+		$name = "信用积分";
+		$description = "信用积分";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-27";
+		$type = "credit";
+?>

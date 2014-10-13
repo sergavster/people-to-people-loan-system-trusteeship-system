@@ -1,0 +1,9 @@
+<?
+		$code = "albums";
+		$name = "相册";
+		$description = "基本的相片模块";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-19";
+		$type = "albums";
+?>

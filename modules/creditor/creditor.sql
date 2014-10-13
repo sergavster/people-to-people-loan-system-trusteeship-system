@@ -1,0 +1,1 @@
+select * from rd_creditor_transfer limit 1;

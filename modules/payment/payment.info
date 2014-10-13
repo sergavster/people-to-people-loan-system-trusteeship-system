@@ -1,0 +1,9 @@
+<?
+		$code = "payment";
+		$name = "支付方式";
+		$description = "支付方式";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-28";
+		$type = "payment";
+?>

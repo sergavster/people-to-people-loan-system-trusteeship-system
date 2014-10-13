@@ -1,0 +1,10 @@
+<?
+
+$code =        "user";
+$name =        "用户信息管理";
+$description = "用户信息管理";
+$version =     "6.1.0";
+$date =   "2013-01-18";
+$author =      "RDTECH";
+$type =      "system";
+?>

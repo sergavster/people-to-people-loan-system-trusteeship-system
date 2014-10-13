@@ -1,0 +1,9 @@
+<?
+		$code = "borrow";
+		$name = "借款模块";
+		$description = "借款模块";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-20";
+		$type = "borrow";
+		?>

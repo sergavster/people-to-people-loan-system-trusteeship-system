@@ -1,0 +1,9 @@
+<?
+		$code = "help";
+		$name = "帮助中心";
+		$description = "帮助中心";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-18";
+		$type = "help";
+		?>

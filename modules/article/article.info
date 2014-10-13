@@ -1,0 +1,9 @@
+<?
+		$code = "article";
+		$name = "文章模块";
+		$description = "文章管理模块";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-28";
+		$type = "cms";
+		?>

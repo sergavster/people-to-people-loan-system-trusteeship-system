@@ -1,0 +1,9 @@
+<?
+		$code = "account";
+		$name = "资金管理";
+		$description = "资金管理";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-18";
+		$type = "account";
+		?>

@@ -1,0 +1,9 @@
+<?
+		$code = "remind";
+		$name = "提醒设置";
+		$description = "提醒设置";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-18";
+		$type = "remind";
+		?>

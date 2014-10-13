@@ -1,0 +1,4 @@
+[2013-03-14 10:28:12] Fatal error: A session had already been started - ignoring session_start() in /data/www/demoa.erongdu.com/core/config.inc.php on line 25
+[2013-03-14 10:28:42] Fatal error: A session had already been started - ignoring session_start() in /data/www/demoa.erongdu.com/core/config.inc.php on line 25
+[2013-03-14 16:33:50] Fatal error: A session had already been started - ignoring session_start() in /data/www/demoa.erongdu.com/core/config.inc.php on line 25
+[2013-04-17 08:41:28] Fatal error: A session had already been started - ignoring session_start() in /data/www/demoa.erongdu.com/core/config.inc.php on line 25

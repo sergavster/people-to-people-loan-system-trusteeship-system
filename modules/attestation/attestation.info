@@ -1,0 +1,9 @@
+<?
+		$code = "attestation";
+		$name = "证明材料";
+		$description = "证明材料";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-14";
+		$type = "attestation";
+		?>

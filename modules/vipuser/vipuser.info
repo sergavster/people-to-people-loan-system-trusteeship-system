@@ -1,0 +1,9 @@
+<?
+		$code = "vipuser";
+		$name = "vip管理";
+		$description = "vip管理";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-28";
+		$type = "vipuser";
+?>

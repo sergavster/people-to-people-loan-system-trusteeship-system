@@ -1,0 +1,9 @@
+<?
+		$code = "linkage";
+		$name = "联动模块";
+		$description = "表单的联动模块";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-18";
+		$type = "linkage";
+		?>
