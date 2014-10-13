@@ -1,0 +1,76 @@
+.jcu_container {
+    padding: 0px;
+	
+	text-align:left;
+	overflow: scroll
+}
+#jcupload_content { width:500px; height:350px;border:1px solid #CCCCCC; overflow: }
+.jcu_file_table { overflow:scroll}
+.jcu_toolbar {
+    padding: 12px;
+}
+.jcu_toolbar_left {
+    float: left;
+}
+.jcu_toolbar_right {
+    float: right;
+    text-align: right;
+}
+.jcu_toolbar_clear {
+    clear: both;
+}
+.jcu_file_table {
+
+}
+.jcu_file_delimeter {
+    font-size: 1px;
+    height: 1px;
+    border-top: solid 1px #EEEEEE;
+	overflow:hidden;
+	width:1px;
+	float:left
+}
+
+.jcu_file_cell_icon {
+    padding: 2px;
+    width: 20px;
+    text-align: center;
+}
+
+.jcu_file_cell_name {
+    padding: 2px;
+    text-align: left;
+	font-size:12px;
+}
+
+.jcu_file_cell_status {
+    padding: 2px;
+    width: 200px;
+}
+
+.jcu_file_progress_back {
+    font-size: 11px;
+    border: solid 1px #466BA2;
+    background: none;
+    display: none;
+}
+.jcu_file_progress {
+    width: 0%;
+    background-color: #466BA2;
+    font-size: 7px;
+    height: 8px;
+}
+
+.jcu_error_container {
+    display: none;
+}
+.jcu_error {
+    margin: 1px;
+    padding: 2px;
+    text-align: left;
+    border: solid 1px #B9290B;
+    color: #B9290B;
+    background-color: #FDE8E3;
+    display: none;
+}
+.jcu_file_table td{ height:10px; overflow:hidden}

@@ -1,0 +1,9 @@
+<?
+		$code = "message";
+		$name = "短消息/好友模块";
+		$description = "短消息/好友模块";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-20";
+		$type = "message";
+		?>

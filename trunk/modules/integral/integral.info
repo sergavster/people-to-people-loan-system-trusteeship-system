@@ -1,0 +1,9 @@
+<?
+		$code = "integral";
+		$name = "积分兑换";
+		$description = "积分物品兑换";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-20";
+		$type = "integral";
+?>

@@ -1,0 +1,9 @@
+<?
+		$code = "liuyan";
+		$name = "留言本";
+		$description = "留言本功能";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-23";
+		$type = "liuyan";
+		?>

@@ -1,0 +1,10 @@
+<?
+
+$code =        "biaotype";
+$name =        "标种管理";
+$description = "标种管理";
+$version =     "6.1.0";
+$date =   "2013-01-06";
+$author =      "RDTECH";
+$type =      "system";
+?>

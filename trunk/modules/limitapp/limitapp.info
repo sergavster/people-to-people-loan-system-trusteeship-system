@@ -1,0 +1,9 @@
+<?
+		$code = "limitapp";
+		$name = "¶î¶ÈÉêÇë";
+		$description = "¶î¶ÈÉêÇë";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-28";
+		$type = "limitapp";
+		?>

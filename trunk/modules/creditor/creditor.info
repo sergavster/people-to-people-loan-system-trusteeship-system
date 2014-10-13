@@ -1,0 +1,9 @@
+<?
+		$code = "creditor";
+		$name = "债权转让";
+		$description = "债权转让";
+		$version = "6.1.0";
+		$author = "RDTECH";
+		$date = "2013-01-27";
+		$type = "creditor";
+?>

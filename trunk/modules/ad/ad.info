@@ -1,0 +1,10 @@
+<?
+
+$code =        "ad";
+$name =        "广告系统";
+$description = "广告系统";
+$version =     "6.1.0";
+$date =   "2013-01-14";
+$author =      "RDTECH";
+$type =      "ad";
+?>
